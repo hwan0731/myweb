@@ -1,32 +1,34 @@
-body {background-color: powderblue; 
+body {
+    background-color: rgb(186, 243, 189);
+    font-family: Dokdo;
+    
+}
+h1   {
     font-family: "Sofia", sans-serif;
-    font-size: 30px;} 
-
-h1   {font-family: "Audiowide", sans-serif;
-    color: blue;}
-
-h2  {color: green;}
-
-p    {color: red;}
+    color: blue;
+}
+h2   {color: green;}
+p    {
+    color: red;
+    font-size: 50px;
+}
 a:link {
-    color: green;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
-  }
-  a:visited {
+}
+a:visited {
     color: pink;
     background-color: transparent;
     text-decoration: none;
-  }
-  a:hover {
+}
+a:hover {
     color: red;
     background-color: transparent;
     text-decoration: underline;
-  }
-  a:active {
+}
+a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
-  }<style>
-  </head>
-  <body> 
+}
