@@ -1,0 +1,48 @@
+body {
+    background-color: powderblue; 
+    font-family: "Sofia", sans-serif;
+
+h1   {
+    font-family: "Sofia", sans-serif;
+    color: blue;}
+
+h2  {
+    font-family: "Sofia", sans-serif;
+    color: green;}
+
+p    {color: red;}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    <!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+  }<link rel="stylesheet" href="styles.css"> 
+  </head>
+  <body>
+
+<h1>Hello World!!!!!</h1>
+<p>안녕 나는 루피야</p>
+<a href="https://www.naver.com/" target="_blank"><img src="naver.png" alt="네이버" width="300"></a>
+<p><a href="https://sports.news.naver.com/index" target="_blank">네이버 스포츠</a></p>
+<p><a href="sports.html" target="_blank">잔망루피 스포츠</a></p>
+<img src="https://i.namu.wiki/i/zjCWAtLf--FfXaom4Xdpk8ryRdG8q0C3u96bNN1_8JZxGy4PEidLDacTW4Lr4srPf8-fQAg2D_lRyj-HcN4KX928Msqof84sojODLPuUVnX-fjkV-sONF3kvwxxhyH9LjXclFUmVf5ruw61G5hvTtw.webp" alt="Trulli" width="500" height="333">
+</body>
+</html>
